@@ -1,5 +1,5 @@
 # EXPERIMENT--02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD
- 
+#### Date:
 
 ## Aim: 
 To Interface a Digital Input  (IR pair ) to ARM IOT development board and write a  program to obtain  the data 
